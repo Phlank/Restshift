@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "fda982f0-422e-4673-ac25-9c7f53ec4c49": {
+      "ProjectGuid": "fda982f0-422e-4673-ac25-9c7f53ec4c49",
+      "DisplayName": "phlank.restshift.client",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
